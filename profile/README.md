@@ -5,3 +5,5 @@ This organisation contains repositories developed by the NSW Department of Clima
 This page includes geospatial toolkits for processing satellite imagery for water resources monitoring.
 
 - [EOWater](https://github.com/DCCEEW-RemoteSensing/EOWater): a fast way to retrieve water surface area time-series from Sentinel-2 and Landsat in GEE
+  
+  <img width="700" alt="example_water_surface_area" src="https://github.com/DCCEEW-RemoteSensing/EOWater/blob/main/doc/example_interactive_map.png">
