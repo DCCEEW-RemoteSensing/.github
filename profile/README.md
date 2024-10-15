@@ -8,4 +8,4 @@ This page includes geospatial toolkits for processing satellite imagery for wate
   
 - [EOWater](https://github.com/DCCEEW-RemoteSensing/EOWater): a fast way to retrieve water surface area time-series from Sentinel-2 and Landsat in GEE
 
-- [geeSEBAL](https://github.com/DCCEEW-RemoteSensing/geeSEBAL): a version of geeSEBAL compatible with Landsat Collection 2
+- [OFS_webapp](https://github.com/DCCEEW-RemoteSensing/OFS_webapp): EOwater web application running for DCCEEW internal users only
